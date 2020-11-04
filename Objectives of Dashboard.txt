@@ -1,0 +1,5 @@
+Obj 1: Number of Sucides in a year according to age.
+Obj 2: Population of male and female according to age.
+Obj 3: Sum of suicides per 100k population of both gender according to age. 
+Obj 4: GDP per year according to year.
+Obj 5: Generations distribution according to year.
